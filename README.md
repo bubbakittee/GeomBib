@@ -7,7 +7,7 @@ I created the bibliography for my own use, but I'm publishing it here in the hop
 
 To contribute using git and/or github, use the standard process ...
   - Fork this repository (e.g. with upper right button on github)
-  - Add new entries or updates to entries in the file: ComputerGeometryBibliography.bib
+  - Add new entries or modifications in the file: ComputerGeometryBibliography.bib
   - Issue a pull request asking for your changes to be pulled into the master repository
   
 For help, please refer to https://help.github.com/articles/using-pull-requests
