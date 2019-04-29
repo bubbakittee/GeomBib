@@ -13,6 +13,6 @@ To contribute using git and/or github, use the standard process ...
   - Add new entries or modifications in the file: ComputerGeometryBibliography.bib
   - Issue a pull request asking for your changes to be pulled into the master repository
   
-For help, please refer to https://help.github.com/articles/using-pull-requests
+For help with this process, please refer to https://help.github.com/articles/using-pull-requests
 
 If you prefer, you can also just email addtions/modifications to me (bubbakittee) at gmail. The email address is obvious, I hope.
