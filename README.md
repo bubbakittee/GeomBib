@@ -3,4 +3,4 @@ A bibliography of materials related to computer representations of geometry. Thi
 
 The bibliography is a single large text file in the .bib format used by TeX/LaTeX. 
 
-I created the bibliography for my own use, but I'm publishing it here in the hope that other people will benefit from it (and contrbute to it, also I hope).
+I created the bibliography for my own use, but I'm publishing it here in the hope that other people will benefit from it (and contrbute to it, also, I hope).
