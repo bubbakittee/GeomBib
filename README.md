@@ -15,4 +15,4 @@ To contribute using git and/or github, use the standard process ...
   
 For help with this process, please refer to https://help.github.com/articles/using-pull-requests
 
-If you prefer, you can also just email addtions/modifications to me (bubbakittee) at gmail. The email address is obvious, I hope.
+If you prefer, you can also just email additions/modifications to me (bubbakittee) via my gmail address. The email address is obvious, I hope.
