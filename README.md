@@ -2,8 +2,8 @@
 A bibliography of materials related to computer representations and processing of geometry. This includes CAGD (Computer-Aided Geometric Design), solid modeling, computational geometry, and related fields. The material should be of interest to people developing CAD/CAM/CAE software, games, drawing programs, and so on. 
 
 The bibliography is a single large text file in the .bib format used by TeX/LaTeX. It includes, among other things:
-  - All papers published in the journal Computer-Aided Design (CAD)
   - All papers published in the journal Computer-Aided Geometric Design (CAGD)
+  - All geometry-oriented papers published in the journal Computer-Aided Design (CAD)
   - All the papers I could find written bymy favorite authors in the field. In no particular order, these are Wolfgang Boehm, Rida Farouki, Gerald Farin, Ron Goldman, Gershon Elber, and a few others.
 
 I created the bibliography for my own use, but I'm publishing it here in the hope that other people will benefit from it (and contrbute to it, also, I hope).
