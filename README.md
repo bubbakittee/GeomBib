@@ -1,5 +1,5 @@
 # A Computer Geometry Bibliography
-A bibliography of materials related to computer representations and processing of geometry. This includes CAGD (Computer-Aided Geometric Design), solid modeling, computational geometry, and related fields. The material should be of interest to people developing CAD/CAM/CAE software, games, drawing programs, and so on. 
+A bibliography of writings related to computer representations and processing of geometry. This includes CAGD (Computer-Aided Geometric Design), solid modeling, computational geometry, and related fields. The material should be of interest to people developing CAD/CAM/CAE software, games, drawing programs, and so on. 
 
 The bibliography is a single large text file in the .bib format used by TeX/LaTeX. It includes, among other things:
   - All papers published in the journal Computer-Aided Geometric Design (CAGD)
