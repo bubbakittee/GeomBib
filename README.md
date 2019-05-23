@@ -9,6 +9,8 @@ The bibliography is a single large text file containing around 21,000 entries in
 
 I have been accumulating this stuff for years, and have forgotten many of the sources. Apologies if I stood on your shoulders but failed to mention you. I created the bibliography for my own use, but I'm publishing it here so that other people can benefit from it (and add to it, also, I hope).
 
+There are several tools for browsing/filtering/searching .bib files. I use one called JabRef, which you can find here: http://www.jabref.org/.
+
 To contribute using git and/or github, use the standard process ...
   - Fork this repository (e.g. with upper right button on github)
   - Add new entries or modifications in the file: ComputerGeometryBibliography.bib
