@@ -8,15 +8,17 @@ The bibliography is a single large text file containing around 22,000 entries in
   - All the entries from a CAGD bibliography created by Andreas Muller, last updated in 1998.
   - A large bibliography compiled by Gerald Farin and Dianne Hansford (kindly provided by Dianne).
 
-I have been accumulating this stuff for years, and have forgotten many of the sources. Apologies if I stood on your shoulders but failed to mention you. I created the bibliography for my own use, but I'm publishing it here so that other people can benefit from it (and add to it, also, I hope).
-
 There are several tools for browsing/filtering/searching .bib files. I use one called JabRef, which you can find here: http://www.jabref.org/.
 
-To contribute using git and/or github, use the standard process ...
+I have been accumulating this stuff for years, and have forgotten many of the sources. Apologies if I stood on your shoulders but failed to mention you. I created the bibliography for my own use, but I'm publishing it here so that other people can benefit from it (and add to it, also, I hope).
+
+If you want to contribute, you can just email additions/modifications to me (bubbakittee) via my gmail address. The email address is obvious, I hope. Please let me know if you want your contributions to be anonymous.
+
+Alternatively, to contribute using git and/or github, use the standard process ...
   - Fork this repository (e.g. with upper right button on github)
   - Add new entries or modifications in the file: ComputerGeometryBibliography.bib
   - Issue a pull request asking for your changes to be pulled into the master repository
   
 For help with this process, please refer to https://help.github.com/articles/using-pull-requests
 
-If you prefer, you can also just email additions/modifications to me (bubbakittee) via my gmail address. The email address is obvious, I hope. Please let me know if you want your contributions to be anonymous.
+
