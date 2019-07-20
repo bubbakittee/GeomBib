@@ -7,6 +7,7 @@ The bibliography is a single large text file containing around 22,000 entries in
   - All the papers I could find by a few of my favorite authors in the field, gathered from DBLP. 
   - All the entries from a CAGD bibliography created by Andreas Muller, last updated in 1998.
   - A large bibliography compiled by Gerald Farin and Dianne Hansford (kindly provided by Dianne).
+  - References from Rida Farouki's book on Pythagorean Hodograph curves (thank you, Rida).
 
 There are several tools for browsing/filtering/searching .bib files. I use one called JabRef, which you can find here: http://www.jabref.org/.
 
