@@ -10,6 +10,8 @@ The bibliography is a single large text file containing around 25,000 entries in
   - References from Rida Farouki's book on Pythagorean Hodograph curves (thank you, Rida).
   - Items from a bibliography published by Brian Barsky in 1981
 
+Latest change in August 2025 was to add the Barsky bibliography items and do a lot of cleanup. The file is now about 20% smaller than it was before.
+
 There are several tools for browsing/filtering/searching .bib files. I use one called JabRef, which you can find here: http://www.jabref.org/.
 
 I have been accumulating this stuff for years, and have forgotten many of the sources. Apologies if I stood on your shoulders but failed to mention you. I created the bibliography for my own use, but I'm publishing it here so that other people can benefit from it (and add to it, also, I hope).
